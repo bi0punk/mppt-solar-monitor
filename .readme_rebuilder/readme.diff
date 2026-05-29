@@ -1,0 +1,45 @@
+--- README.generated.md (existing)
++++ README.generated.md (generated)
+@@ -0,0 +1,42 @@
++# pwm-solar-monitor
++
++> A software project for monitoring solar panel power output.
++
++## Resumen del proyecto
++This project aims to monitor the power output of solar panels using Pulse Width Modulation (PWM) signals. It is a standalone application designed to provide real-time data on solar panel performance.
++
++## Funcionalidades principales
++- Monitors solar panel power output
++
++## Arquitectura
++- No clear dependencies, commands, or entrypoints
++
++## Requisitos previos
++- No clear dependencies or configuration files
++
++## Instalación
++- No setup instructions provided
++
++## Configuración
++- No clear dependencies or configuration files
++
++## Uso
++- No usage instructions provided
++
++## Pruebas
++- No tests present
++
++## Docker
++- No Dockerized
++
++## Notas del repositorio
++- No setup instructions provided
++
++## Limitaciones conocidas
++- No clear dependencies or configuration files
++
++## Próximos pasos
++- Clarify the project's intended use as a standalone application or a library
++- Define the expected input format for the PWM signals
++- Specify the hardware platform or environment this project is designed for
++- Identify any specific requirements or constraints for the project's usage
