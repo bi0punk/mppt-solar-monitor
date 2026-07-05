@@ -1,11 +1,41 @@
-# pwm-solar-monitor
+# PWM Solar Monitor
 
-Solar panel power monitoring using PWM signal analysis. This repository is a placeholder — no source code has been committed yet.
+Monitoreo de paneles solares mediante análisis de señales PWM.
 
-## Status
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-This project is in early planning/placeholder stage. Check back for future updates.
+## Tabla de Contenidos
 
-## License
+- [Características](#características)
+- [Stack](#stack)
+- [Estructura](#estructura)
+- [Estado](#estado)
+- [Licencia](#licencia)
+
+## Características
+
+- Medición de potencia de paneles solares vía PWM
+- Placeholder — repositorio en etapa de planificación inicial
+
+## Stack
+
+- Microcontrolador (Arduino/ESP)
+- Análisis de señales PWM
+
+## Estructura
+
+```
+pwm-solar-monitor/
+├── .github/workflows/   # CI
+├── .readme_rebuilder/
+├── LICENSE
+└── README.md
+```
+
+## Estado
+
+Proyecto en etapa de planificación. No hay código fuente commiteado aún.
+
+## Licencia
 
 MIT
