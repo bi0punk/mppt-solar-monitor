@@ -32,7 +32,7 @@ flowchart LR
 ## Estado
 
 - Proyecto en **planificación**: no hay directorios de código ni archivos fuente todavía.
-- El repositorio contiene únicamente CI, licencia y README.
+- El repositorio contiene únicamente CI, licencia, README, `.gitignore` y el directorio de metadatos `.readme_rebuilder/`.
 
 ## CI
 
